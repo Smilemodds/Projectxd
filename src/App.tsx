@@ -63,7 +63,7 @@ function App() {
         <div className="flex items-center justify-center mb-6">
           <Terminal className="w-12 h-12 text-green-400 mr-4 animate-pulse" />
           <div className="text-6xl font-bold bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-            MR SMILE MODDERS ✅
+            MR SMILE MODDERS
           </div>
         </div>
         <div className="text-2xl text-green-400 font-mono tracking-wider mb-4 animate-pulse">
